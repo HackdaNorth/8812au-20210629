@@ -120,7 +120,7 @@ which can be provided via PR or message in Issues.
 
 - [Fedora](https://getfedora.org) Fedora 38 (6.2.13-300)
 
-- [Kali Linux](https://www.kali.org/) (kernel 6.3)
+- [Kali Linux](https://www.kali.org/) (kernel 6.6.15)
 
 - [Manjaro](https://manjaro.org) (kernel 5.15)
 
