@@ -1,3 +1,6 @@
+## This driver works perfectly for devices such as AWUS036ACH and more.
+
+
 ## 8812au ( 8812au.ko ) :rocket:
 
 Notice: A newer version of this driver is now available at the following location:
